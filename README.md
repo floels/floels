@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @floels, currently Tech Operations Principal & Head of Web by interim @Qonto
+- 👋 Hi, I’m Florian Ellis, currently Tech Operations Principal & interim Head of Web @Qonto
 - 👀 I’m interested in full-stack software engineering (JS and Python).
 - 🌱 I’m currently learning Ember.js
 - 📫 How to reach me: florian.ellis@qonto.com
